@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.png.png" alt="Murilo Henrique - Frontend & Full Stack Developer" width="100%">
+
 # 👋 Olá, eu sou Murilo Santos!
 
 ### 💻 Frontend & Full Stack Developer em formação
