@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Murilo Henrique**, desenvolvedor em formação e interesse pela tecnologia.
+Olá! Sou **Murilo Santos**, desenvolvedor em formação e interesse pela tecnologia.
 
 Estou reconstruindo minha jornada na programação, fortalecendo minha base e criando projetos e aplicações reais que são de auto ajuda.
 
