@@ -11,6 +11,9 @@
 <a href="https://github.com/MuriloSantos22">
   <img src="https://img.shields.io/badge/GitHub-MuriloSantos22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+<a href="https://www.linkedin.com/in/murilo-santos-523833213/">
+  <img src="https://img.shields.io/badge/LinkedIn-Murilo_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -54,6 +57,22 @@ Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento Frontend,
 <tr>
 <td width="50%">
 
+### 📜 Adivinhe a Passagem
+
+Jogo bíblico de perguntas e respostas com níveis de dificuldade, dicas e pontuação.
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+<a href="https://murilosantos22.github.io/jogo-de-adivinhacao/">
+  <img src="https://img.shields.io/badge/Ver_aplicação-181717?style=for-the-badge&logo=githubpages">
+</a>
+<a href="https://github.com/MuriloSantos22/jogo-de-adivinhacao">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+<td width="50%">
+
 ### 💡 Lâmpada personalizada
 
 Projeto criado na aula de JavaScript com auxílio de IA.
@@ -65,6 +84,8 @@ Projeto criado na aula de JavaScript com auxílio de IA.
 </a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💡 Projeto lâmpada
@@ -81,8 +102,6 @@ Interação com JavaScript publicada no GitHub Pages.
 </a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🧑‍🎓 Cadastro de alunos
@@ -96,6 +115,8 @@ Sistema de cadastro desenvolvido na Faculdade SENAC.
 </a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ✨ Rede de partículas
@@ -148,9 +169,9 @@ Animação interativa com partículas, movimento, atração magnética e explos�
 
 | Linguagem | Projetos com a linguagem |
 | --- | ---: |
-| JavaScript | 4 |
-| HTML | 4 |
-| CSS | 4 |
+| JavaScript | 5 |
+| HTML | 5 |
+| CSS | 5 |
 
 > Os índices visuais acima são gerados automaticamente pelo GitHub Readme Stats a partir dos repositórios públicos.
 
@@ -201,6 +222,9 @@ Animação interativa com partículas, movimento, atração magnética e explos�
 
 <a href="https://github.com/MuriloSantos22">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/murilo-santos-523833213/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
